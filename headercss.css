@@ -1,0 +1,31 @@
+
+*{
+	margin: 0;
+	padding:0;
+}
+
+
+
+/*.admin{
+	
+	position: relative;
+    margin-top:0px;
+    float: right;
+    transform: translate(-15%,18% );
+    font-size:20px;
+    font-family: 'Marck Script', cursive;
+}*/
+ a{
+    color:white;
+    text-decoration: none;
+}
+ a:hover{
+ text-decoration: none;
+  color:black;
+}
+#btn:hover a{
+color: black;
+}
+
+
+
